@@ -1,0 +1,3 @@
+1 These are contents from the input.txt file!
+2 Will they now appear in the output.txt file?
+3 let's find out
